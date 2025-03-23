@@ -1,6 +1,5 @@
 from py2neo import Graph
 import requests
-import json
 from tqdm import tqdm
 import time
 
